@@ -1,0 +1,3 @@
+* Amrollahi, D., Bartocci, E., Kenison, G., Kovács, L., Moosbrugger, M., & Stankovič, M. (2022, December). Solving Invariant Generation for Unsolvable Loops. In Static Analysis: 29th International Symposium, SAS 2022, Auckland, New Zealand, December 5–7, 2022, Proceedings (pp. 19-43). Cham: Springer Nature Switzerland. **Awarded the Radhia Cousot Young Researcher Best Paper Award**.
+
+* Humenberger, A., Amrollahi, D., Bjørner, N., & Kovács, L. (2022). Algebra-Based Reasoning for Loop Synthesis. Formal Aspects of Computing, 34(1), 1-31.

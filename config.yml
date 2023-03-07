@@ -7,12 +7,14 @@ theme: charlolamode
 
 menu:
     main:
-        - name: Contact
-          url: /contact/
-          weight: 30
+        # - name: Contact
+        #   url: /contact/
+        #   weight: 30
         - name: Misc
           url: /misc/
-          # weight: 30
+          weight: 30
+        - name: Publications
+          url: /publications/
         # - name: Articles
           # url: /articles/
           # weight: 20
@@ -61,23 +63,20 @@ params:
       - articles
 
     socialIcons:
-        # - name: buymeacoffee
-        #   url: "https://ko-fi.com/heycharlola"
+      # add more social icons. find more in svg.html file
+        - name: email
+          url: "mailto:amrollahi.daneshvar@gmail.com"
         - name: github
           url: "https://github.com/daneshvar-amrollahi"
-        # - name: linkedin
-        #   url: "https://www.linkedin.com/in/heycharlola/"
-
-      # add more social icons. find more in svg.html file
-      # - name: youtube 
-      #   url: yoururl
+        - name: googlescholar
+          url: "https://scholar.google.com/citations?hl=en&user=agoJrloAAAAJ"
+        - name: cv
+          url: "https://daneshvar-amrollahi.github.io/files/CV.pdf"
         - name: twitter
           url: "https://twitter.com/AmrollahiD"
-      # - name: facebook
-      #   url: yoururl
-        - name: CV
-          url: "https://daneshvar-amrollahi.github.io/files/CV.pdf"
-
+        - name: spotify
+          url: "https://open.spotify.com/user/dnshvr00?si=04c34ac514654e8a"
+        
 
     # change favicon in images folder (icon for web tab)
     assets:
