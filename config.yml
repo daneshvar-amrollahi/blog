@@ -12,10 +12,10 @@ menu:
         #   weight: 30
         - name: Publications
           url: /publications/
-          weight: 30
+          weight: 1
         - name: Misc
           url: /misc/
-          weight: 30
+          weight: 2
         # - name: Articles
           # url: /articles/
           # weight: 20
