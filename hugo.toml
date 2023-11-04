@@ -38,7 +38,7 @@ url = "index.xml"
 
 [params]
 description = "A website built through Hugo and blogdown."
-footer = "&copy; [Daneshvar Amrollahi](https://daneshvar-amrollahi.github.io/) | [GitHub](https://github.com/daneshvar-amrollahi) | [Twitter](https://twitter.com/AmrollahiD) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=agoJrloAAAAJ)"
+footer = "&copy; [Daneshvar Amrollahi](https://daneshvar-amrollahi.github.io/) | [GitHub](https://github.com/daneshvar-amrollahi)"
 
 [markup.highlight]
 codeFences = false
