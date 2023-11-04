@@ -1,13 +1,13 @@
 ---
 title: First Post
-date: '2023-10-04'
+date: '2023-11-04'
 categories:
   - Example
 tags:
   - Markdown
 ---
 
-I am in love with this new extremely minimal theme designed by [Yihui](https://github.com/yihui/hugo-xmin). It also supports LaTeX math expressions. Here is the induction axiom for structural induction on type `$\tau$`, that I just copied from our current draft:
+I am in love with this new extremely minimal theme designed by [Yihui](https://github.com/yihui/hugo-xmin). It also supports LaTeX math expressions. Here is the induction axiom for structural induction on type `$\tau$`, that I just copied from our current draft on Overleaf:
 
 `$$
     \biggl(
@@ -25,4 +25,4 @@ I am in love with this new extremely minimal theme designed by [Yihui](https://g
     \forall z .\exists x. L[z, x]
 $$`
 
-Isn't it wonderful?
+Wonderful! Isn't it?
