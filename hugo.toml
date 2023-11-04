@@ -2,3 +2,46 @@ baseURL = 'https://daneshvar-amrollahi.github.io/'
 languageCode = 'en-us'
 title = 'Daneshvar'
 theme = 'xmin'
+
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = [ "\\.Rmd$", "\\.Rmarkdown$", "_cache$" ]
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+note = "/note/:year/:month/:day/:slug/"
+post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[menu.main]]
+name = "Categories"
+url = "categories/"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 4
+
+[[menu.main]]
+name = "Subscribe"
+url = "index.xml"
+
+[params]
+description = "A website built through Hugo and blogdown."
+footer = "&copy; [Daneshvar Amrollahi](https://daneshvar-amrollahi.github.io/) | [GitHub](https://github.com/daneshvar-amrollahi) | [Twitter](https://twitter.com/AmrollahiD) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=agoJrloAAAAJ)"
+
+[markup.highlight]
+codeFences = false
+
+[markup.goldmark.renderer]
+unsafe = true
