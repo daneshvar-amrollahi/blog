@@ -43,7 +43,7 @@ weight = 5
 
 [params]
 description = "A website built through Hugo and blogdown."
-footer = "&copy; [Daneshvar Amrollahi](https://daneshvar-amrollahi.github.io/) | [GitHub](https://github.com/daneshvar-amrollahi) | [Email](mailto:daneshvar.amrollahi@stanford.edu) | [Twitter](https://twitter.com/AmrollahiD)"
+footer = "&copy; [Daneshvar Amrollahi](https://daneshvar-amrollahi.github.io/) | [GitHub](https://github.com/daneshvar-amrollahi) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=agoJrloAAAAJ) | [Email](mailto:daneshvar.amrollahi@stanford.edu) | [Twitter](https://twitter.com/AmrollahiD)"
 
 [markup.highlight]
 codeFences = false
