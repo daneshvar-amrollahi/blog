@@ -6,4 +6,4 @@ title: Home
 
 ## Daneshvar Amrollahi
 
-I am currently a research intern at TU Wien, working on synthesis of recursive programs by combining mathematical induction with first-order theorem proving. I will start a PhD in Computer Science at Stanford University next January. 
+I am currently a research intern at TU Wien, working on synthesis of recursive programs. I will start a PhD in Computer Science at Stanford University next January. 
