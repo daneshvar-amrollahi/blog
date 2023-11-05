@@ -2,4 +2,4 @@
 title: About
 ---
 
-Hello, I am Daneshvar. 
+This page will be updated soon. 
