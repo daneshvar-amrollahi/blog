@@ -1,5 +1,14 @@
 ---
 title: About
 ---
+ 
+### Research Interests
 
-This page will be updated soon. 
+* Formal Methods
+* Satisfiability Modulo Theories
+* Automated Reasoning
+* Verification
+
+### Contact
+
+daneshvar [dot] amrollahi [at] stanford [dot] edu
