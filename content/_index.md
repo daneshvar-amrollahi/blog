@@ -6,4 +6,4 @@ title: Home
 
 ## Daneshvar Amrollahi
 
-I am currently a research intern at TU Wien, working on synthesis of recursive programs by combining saturation-based theorem proving in FOL with mathematical induction. Next January, I will start a PhD in Computer Science at Stanford University.
+I am currently a research intern at TU Wien, working on synthesis of recursive programs by combining mathematical induction with saturation-based theorem proving. Next January, I will start a PhD in Computer Science at Stanford University.
