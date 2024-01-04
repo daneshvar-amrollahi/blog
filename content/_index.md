@@ -6,4 +6,4 @@ title: Home
 
 ## Daneshvar Amrollahi
 
-I am currently a research intern at TU Wien, working on synthesis of recursive programs by combining mathematical induction with saturation-based theorem proving. Next January, I will start a PhD in Computer Science at Stanford University.
+I am a first-year Computer Science PhD student at Stanford University. Currently, I am fortunate to be rotating with Prof. Clark Barrett at [CENTAUR](https://centaur.stanford.edu/index.html), as part of the [cvc5](https://cvc5.github.io/) project. 
