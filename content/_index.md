@@ -6,4 +6,4 @@ title: Home
 
 ## Daneshvar Amrollahi
 
-I am a first-year Computer Science PhD student at Stanford University. Currently, I am fortunate to be rotating with Prof. Clark Barrett, as part of the [cvc5](https://cvc5.github.io/) project. 
+I am a first-year Computer Science PhD student at Stanford University. Currently, I am fortunate to be rotating with Prof. Clark Barrett on [cvc5](https://cvc5.github.io/). 
