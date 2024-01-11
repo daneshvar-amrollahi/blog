@@ -11,7 +11,9 @@ title: About
 
 ### Contact
 
-* **daneshvar** [at] **cs** [dot] **stanford** [dot] **edu** [[?]](https://stackoverflow.com/questions/11563283/why-write-at-and-dot-in-email-rather-than-and)
+* Email: **daneshvar** [at] **cs** [dot] **stanford** [dot] **edu** [[?]](https://stackoverflow.com/questions/11563283/why-write-at-and-dot-in-email-rather-than-and)
+* Office: Gates 481
+
 
 ### Other
 
