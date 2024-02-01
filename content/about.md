@@ -4,10 +4,10 @@ title: About
  
 ### Research Interests
 
-* Formal Methods
-* Satisfiability Modulo Theories
 * Automated Reasoning
+* Satisfiability Modulo Theories
 * Verification
+* Computer Systems
 
 ### Contact
 
