@@ -7,7 +7,7 @@ title: Home
 ## Daneshvar Amrollahi
 
 
-I am a first-year Computer Science PhD student at Stanford University. Currently, I am fortunate to be rotating with Prof. Clark Barrett and working on the state-of-the-art SMT Solver, [cvc5](https://cvc5.github.io/).
+I am a first-year **Computer Science PhD student** at **Stanford University**. Currently, I am fortunate to be rotating with **Prof. Clark Barrett** and working on the state-of-the-art SMT Solver, [cvc5](https://cvc5.github.io/).
 
 Prior to joining Stanford, I did research internships at TU Wien and EPFL. 
 
