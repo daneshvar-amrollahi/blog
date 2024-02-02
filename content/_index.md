@@ -17,6 +17,6 @@ At TU Wien, I mainly focused on two projects:
 
 2. **Recursive Program Synthesis**: We introduced a framework for synthesizing recursive programs based on a first-order logic formula serving as the program specification. This approach combines mathematical induction and saturation-based **theorem proving**. I implemented our theory in the [Vampire](https://github.com/vprover/vampire/tree/synthesis-recursive) theorem prover. This work is currently under review at a top-tier venue.
 
-At EPFL, I developed an interest in verifying computer systems (computer networks, operating systems, distributed systems). I integrated **Z3**'s support for quantifiers in first-order logic into the **KLEE** symbolic execution engine codebase. This enhancement boosted the scalability of a network verification approach using **symbolic execution** by addressing the path explosion problem.
+At EPFL, I developed an interest in verifying computer systems (computer networks, operating systems, distributed systems). I integrated **Z3**'s support for quantifiers in first-order logic into the **KLEE** symbolic execution engine codebase. This enhancement boosted the scalability of a **network verification** approach using **symbolic execution** by addressing the path explosion problem.
 
 Shoot me an email if you're interested in chatting!
