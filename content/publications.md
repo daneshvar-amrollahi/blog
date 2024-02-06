@@ -10,3 +10,5 @@ title: Publications
 
 * D. Amrollahi, E. Bartocci, G. Kenison, L. Kovács, M. Moosbrugger, M. Stankovič (2023). **(Un)Solvable Loop Analysis**. *Submitted to Formal Methods in Systems Design (FMSD)*. 
 
+* P. Hozzová, D. Amrollahi, M. Hajdu, L. Kovács, A. Voronkov, E.M. Wagner (2024). **Synthesis of Recursive Programs in Saturation**. *Submitted*.
+
