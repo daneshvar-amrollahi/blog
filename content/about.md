@@ -24,4 +24,4 @@ title: About
 * I have climbed a few 6A+ boulders. Aspiring to do an 8A one day.  
 * BTW, I use Mint. 
 
-Also, my CV can be found here: [https://daneshvar-amrollahi.github.io/files/CV.pdf](https://daneshvar-amrollahi.github.io/files/CV.pdf)
+Also, my CV can be found here: [https://cs.stanford.edu/~daneshva/files/CV.pdf](https://cs.stanford.edu/~daneshva/files/CV.pdf)
