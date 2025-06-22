@@ -11,5 +11,8 @@
     ```
 
 * Set up repo on a new machine:
-1. `git clone --recurse-submodules https://github.com/daneshvar-amrollahi/blog`
+1. `git clone https://github.com/daneshvar-amrollahi/blog`
 2. `git checkout cs-stanford`
+3. `git clone https://github.com/daneshvar-amrollahi/daneshvar-amrollahi.github.io public`
+4. `cd public`
+5. `git checkout cs-stanford`
