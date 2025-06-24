@@ -18,24 +18,44 @@ url = ""
 weight = 1
 
 [[menu.main]]
-name = "About"
-url = "about/"
+name = "GitHub"
+url = "https://github.com/daneshvar-amrollahi"
 weight = 2
 
 [[menu.main]]
-name = "Publications"
-url = "publications/"
+name = "Google Scholar"
+url = "https://scholar.google.com/citations?hl=en&user=agoJrloAAAAJ"
 weight = 3
 
-[[menu.main]]
-name = "Categories"
-url = "categories/"
-weight = 4
+# [[menu.main]]
+# name = "X"
+# url = "https://x.com/AmrollahiD"
+# weight = 4
 
 [[menu.main]]
-name = "Tags"
-url = "tags/"
+name = "CV"
+url = "https://cs.stanford.edu/~daneshva/files/CV.pdf"
 weight = 5
+
+[[menu.main]]
+name = "Misc"
+url = "misc/"
+weight = 6
+
+# [[menu.main]]
+# name = "Publications"
+# url = "publications/"
+# weight = 3
+
+# [[menu.main]]
+# name = "Categories"
+# url = "categories/"
+# weight = 4
+
+# [[menu.main]]
+# name = "Tags"
+# url = "tags/"
+# weight = 5
 
 # [[menu.main]]
 # name = "Subscribe"
@@ -43,7 +63,7 @@ weight = 5
 
 [params]
 description = "A website built through Hugo and blogdown."
-footer = "&copy; [Daneshvar Amrollahi](https://cs.stanford.edu/~daneshva) | [GitHub](https://github.com/daneshvar-amrollahi) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=agoJrloAAAAJ) | [X](https://x.com/AmrollahiD)"
+# footer = "&copy; [Daneshvar Amrollahi](https://cs.stanford.edu/~daneshva) | [GitHub](https://github.com/daneshvar-amrollahi) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=agoJrloAAAAJ) | [X](https://x.com/AmrollahiD)"
 
 [markup.highlight]
 codeFences = false
