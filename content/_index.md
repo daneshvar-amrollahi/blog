@@ -19,8 +19,8 @@ Email: daneshvar [at] cs [dot] stanford [dot] edu
 
 ### News
 
-* [June 2024]: Joined [Amazon Web Services (AWS)](https://aws.amazon.com/) in Santa Clara as an Applied Science Intern.  
-* [June 2024]: Passed my PhD qualifications exam and earned a Master's degree in Computer Science.
+* [June 2025]: Joined [Amazon Web Services (AWS)](https://aws.amazon.com/) in Santa Clara as an Applied Science Intern.  
+* [June 2025]: Passed my PhD qualifications exam and earned a Master's degree in Computer Science.
 * [Oct 2024]: Presented my poster "Towards Improved Stability for SMT Solvers" at the [FMCAD 2024](https://fmcad.org/FMCAD24/) student forum. 
 * [Aug 2024]: Gave a talk [Towards Improved Stability for SMT Solvers](https://youtu.be/5ITAlDzSC-c) at the [Center for Automated Reasoning (CENTAUR)](https://centaur.stanford.edu/event_centaur_2024.html) annual meeting, Stanford University. 
 * [March 2024]: Our paper "Synthesis of Recursive Programs in Saturation" got accepted to [IJCAR 2024](https://merz.gitlabpages.inria.fr/2024-ijcar/). 
