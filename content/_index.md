@@ -8,9 +8,9 @@ title: Home
 
 ## Daneshvar Amrollahi
 
-I am a second-year Computer Science PhD student at Stanford University, advised by Clark Barrett. I am broadly interested in **Automated Reasoning**.
+I am a second-year Computer Science PhD student at Stanford University, advised by Clark Barrett. I am broadly interested in **Automated Reasoning**, and more recently neurosymbolic AI, bridging neural and symbolic approaches for more reliable reasoning.
 
-In my undergrad, I worked on loop invariant generation, program synthesis, and scaling symbolic execution for verifying network functions.
+In my undergrad, I worked on loop invariant generation, program synthesis, and verifying software network functions. 
 
 Ping me if you want to chat!
 
