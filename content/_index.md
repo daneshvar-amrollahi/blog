@@ -12,7 +12,9 @@ I am a second-year Computer Science PhD student at Stanford University, advised 
 
 In my undergrad, I worked on loop invariant generation, program synthesis, and verifying software network functions. 
 
-Ping me if you want to chat!
+Ping me if you want to chat about anything!
+
+**I’m looking for Summer 2026 internships**. If you think I’d be a good fit for your team, or know of any roles I might be interested in, I’d love to chat!
 
 Email: daneshvar [at] cs [dot] stanford [dot] edu
 
