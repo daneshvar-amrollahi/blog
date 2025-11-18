@@ -14,7 +14,7 @@ Currently, I am working on two projects:
 
 1. *Autoformalization*: using LLMs to translate rules written in natural language into formal logic representations for rigorous reasoning and verification.
 
-2. *Adaptive Verifier Configuration*: leveraging LLMs to analyze the structure of logical benchmarks and automatically select verifier heuristics — an early step toward self-tuning, adaptive reasoning tools.
+2. *Adaptive Verifier Configuration*: leveraging LLMs to analyze the structure of logical benchmarks and automatically select verifier heuristics, an early step toward self-tuning, adaptive reasoning tools.
 
 Previously, I have worked on SMT solvers, loop invariant generation, program synthesis, and verifying software network functions. 
 
