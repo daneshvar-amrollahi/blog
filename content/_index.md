@@ -8,13 +8,9 @@ title: Home
 
 ## Daneshvar Amrollahi
 
-I am a third-year Computer Science PhD student at Stanford University, advised by Clark Barrett. I am broadly interested in **Automated Reasoning**, and more recently neurosymbolic AI, bridging neural and symbolic methods bidirectionally.
+I am a third-year Computer Science PhD student at Stanford University, advised by Clark Barrett. 
 
-Currently, I am working on two projects:
-
-1. *Autoformalization*: using LLMs to translate rules written in natural language into formal logic representations for rigorous reasoning and verification.
-
-2. *Adaptive Verifier Configuration*: leveraging LLMs to analyze the structure of logical benchmarks and automatically select verifier heuristics, an early step toward self-tuning, adaptive reasoning tools.
+My interests center on neurosymbolic AI, especially autoformalization, where large language models (LLMs) are used to translate natural language into formal representations (e.g., Lean) for rigorous reasoning and verification.
 
 Previously, I have worked on SMT solvers, loop invariant generation, program synthesis, and verifying software network functions. 
 
