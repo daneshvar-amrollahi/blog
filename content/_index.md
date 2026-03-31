@@ -12,9 +12,8 @@ I am a third-year Computer Science PhD student at Stanford University, advised b
 
 My interests center on neurosymbolic AI, especially autoformalization, where large language models (LLMs) are used to translate natural language into formal representations (e.g., Lean) for rigorous reasoning and verification.
 
-Previously, I have worked on SMT solvers, loop invariant generation, program synthesis, and verifying software network functions. 
+Previously, I have worked on SMT solvers, theorem provers, loop invariant generation, program synthesis, and verifying software network functions. 
 
-**I’m seeking Summer 2026 internships**. If you think I’d be a good fit for your team, or know of any roles I might be interested in, please reach out!
 
 Email: daneshvar [at] cs [dot] stanford [dot] edu
 
