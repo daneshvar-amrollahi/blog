@@ -21,11 +21,11 @@ Email: daneshvar [at] cs [dot] stanford [dot] edu
 ### News
 
 * [April 2026]: Check out my preprint `Faithful Autoformalization via Roundtrip Verification and Repair` on [arXiv](https://arxiv.org/abs/2604.25031). 
-* [July 2025]: Our paper "Towards Improved Stability for SMT Solvers via Input Normalization" got accepted to [FMCAD 2025](https://fmcad.org/FMCAD25/). 
+* [July 2025]: Our paper `Towards Improved Stability for SMT Solvers via Input Normalization` got accepted to [FMCAD 2025](https://fmcad.org/FMCAD25/). 
 * [June 2025]: Joined the Automated Reasoning Group of [Amazon Web Services (AWS)](https://aws.amazon.com/) in Santa Clara, California as an Applied Science Intern.  
 * [June 2025]: Passed my PhD qualifications exam and earned a Master's degree in Computer Science.
-* [Aug 2024]: Gave a talk [Towards Improved Stability for SMT Solvers](https://youtu.be/5ITAlDzSC-c) at the [Center for Automated Reasoning (CENTAUR)](https://centaur.stanford.edu/event_centaur_2024.html) annual meeting, Stanford University. 
-* [March 2024]: Our paper "Synthesis of Recursive Programs in Saturation" got accepted to [IJCAR 2024](https://merz.gitlabpages.inria.fr/2024-ijcar/). 
+* [Aug 2024]: Gave a talk `Towards Improved Stability for SMT Solvers` at the [Center for Automated Reasoning (CENTAUR)](https://centaur.stanford.edu/event_centaur_2024.html) annual meeting, Stanford University. 
+* [March 2024]: Our paper `Synthesis of Recursive Programs in Saturation` got accepted to [IJCAR 2024](https://merz.gitlabpages.inria.fr/2024-ijcar/). 
 * [Jan 2024]: Started my PhD in Computer Science at Stanford University.
 
 ### Blog
