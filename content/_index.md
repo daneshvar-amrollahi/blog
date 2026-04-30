@@ -20,7 +20,6 @@ Email: daneshvar [at] cs [dot] stanford [dot] edu
 
 ### News
 
-* [April 2026]: Check out my preprint `Faithful Autoformalization via Roundtrip Verification and Repair` on [arXiv](https://arxiv.org/abs/2604.25031). 
 * [July 2025]: Our paper `Towards Improved Stability for SMT Solvers via Input Normalization` got accepted to [FMCAD 2025](https://fmcad.org/FMCAD25/). 
 * [June 2025]: Joined the Automated Reasoning Group of [Amazon Web Services (AWS)](https://aws.amazon.com/) in Santa Clara, California as an Applied Science Intern.  
 * [June 2025]: Passed my PhD qualifications exam and earned a Master's degree in Computer Science.
