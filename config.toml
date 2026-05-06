@@ -35,17 +35,17 @@ weight = 3
 [[menu.main]]
 name = "CV"
 url = "https://cs.stanford.edu/~daneshva/files/CV.pdf"
+weight = 4
+
+[[menu.main]]
+name = "Publications"
+url = "publications/"
 weight = 5
 
 [[menu.main]]
 name = "Misc"
 url = "misc/"
 weight = 6
-
-# [[menu.main]]
-# name = "Publications"
-# url = "publications/"
-# weight = 3
 
 # [[menu.main]]
 # name = "Categories"
