@@ -28,11 +28,6 @@ weight = 2
 # weight = 4
 
 [[menu.main]]
-name = "CV"
-url = "https://cs.stanford.edu/~daneshva/files/CV.pdf"
-weight = 4
-
-[[menu.main]]
 name = "Publications"
 url = "publications/"
 weight = 5
