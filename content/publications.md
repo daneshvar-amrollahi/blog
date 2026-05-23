@@ -8,6 +8,8 @@ See also my [Google Scholar](https://scholar.google.com/citations?hl=en&user=ago
 
 * `Faithful Autoformalization via Roundtrip Verification and Repair` [[PDF]](https://cs.stanford.edu/~daneshva/publications/roundtrip.pdf). <u>Daneshvar Amrollahi</u>, Jerry Lopez, Clark Barrett. Preprint, 2026.
 
+* `VeriBench: End-to-End Formal Verification Benchmark for AI Coding Agents in Lean 4` [[PDF]](https://cs.stanford.edu/~daneshva/publications/veribench.pdf). Brando Miranda, Srivatsava Daruru, Ethan S. Hersch, Zhanke Zhou, Allen Nie, <u>Daneshvar Amrollahi</u>, Leni Aniva, Iddah Mlauzi, Kirill Acharya, Elyas Obbad, Dilara Soylu, Weston Kirk, Zixiao Jolene Wang, Kai Fronsdal, Ying Li, Donald Poindexter Jr., Rakshit Kaushik, Shurui Liu, Yegor Denisov-Blanch, Steven Dillmann, Simon Obstbaum, Santiago Cuellar, John Sarracino, Rylan Schaeffer, Mo Tiwari, Donghyun Lee, Bo Han, Sanmi Koyejo. Preprint, 2026.
+
 * `VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus` [[PDF]](https://arxiv.org/pdf/2510.25015). Chuyue Sun, Yican Sun, <u>Daneshvar Amrollahi</u>, Ethan Zhang, Shuvendu Lahiri, Shan Lu, David Dill, Clark Barrett. International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2026.
 
 * `Towards SMT Solver Stability via Input Normalization` [[PDF]](https://cs.stanford.edu/~daneshva/publications/fmcad25.pdf). <u>Daneshvar Amrollahi</u>, Mathias Preiner, Aina Niemetz, Andrew Reynolds, Moses Charikar, Cesare Tinelli, Clark Barrett. Formal Methods in Computer-Aided Design (FMCAD), 2025.
