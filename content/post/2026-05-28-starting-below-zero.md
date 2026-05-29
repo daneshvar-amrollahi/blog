@@ -76,8 +76,6 @@ So when I look at the people around me, and I swear I don't resent a single one 
 
 I have none of that. When something goes wrong for me, there is nothing below. Nothing. So if we ever land in the same place, please understand that we did not run the same race, and most of the room can't even see the stretch of track I had to claw my way up just to reach the line everyone else was handed at birth.
 
-Two and a half years here. Every dollar of it mine. More taxes than the average American, into a system that is now refusing to process me, even after I paid it extra to hurry.
-
 Marco Rubio likes to say it into the cameras: *the Iranian people are different from their government*[4]. He says it a lot. And then his government certifies me as a national interest, takes my ten thousand dollars, freezes my life, and treats me as indistinguishable from the men who cut the lights and opened fire on children.
 
 So which is it. Because from down here, below zero, alone, locked out by the country I fled and frozen by the country I trusted, the two of you look like you're working together just fine.
