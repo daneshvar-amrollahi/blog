@@ -16,9 +16,9 @@ See also my [Google Scholar](https://scholar.google.com/citations?hl=en&user=ago
 
 * `(Un)Solvable Loop Analysis` [[PDF]](https://cs.stanford.edu/~daneshva/publications/fmsd.pdf). <u>Daneshvar Amrollahi</u>, Ezio Bartocci, George Kenison, Laura Kovács, Marcel Moosbrugger, Miroslav Stankovič. Formal Methods in System Design, 2024.
 
-* `Synthesis of Recursive Programs in Saturation`. Petra Hozzová, <u>Daneshvar Amrollahi</u>, Márton Hajdu, Laura Kovács, Andrei Voronkov, Eva Maria Wagner. International Joint Conference on Automated Reasoning (IJCAR), 2024.
+* `Synthesis of Recursive Programs in Saturation` [[PDF]](https://cs.stanford.edu/~daneshva/publications/ijcar24.pdf). Petra Hozzová, <u>Daneshvar Amrollahi</u>, Márton Hajdu, Laura Kovács, Andrei Voronkov, Eva Maria Wagner. International Joint Conference on Automated Reasoning (IJCAR), 2024.
 
 * `Algebra-Based Reasoning for Loop Synthesis` [[PDF]](https://cs.stanford.edu/~daneshva/publications/fac.pdf). Andreas Humenberger, <u>Daneshvar Amrollahi</u>, Nikolaj Bjørner, Laura Kovács. Formal Aspects of Computing, 2022.
 
-* `Solving Invariant Generation for Unsolvable Loops`. <u>Daneshvar Amrollahi</u>, Ezio Bartocci, George Kenison, Laura Kovács, Marcel Moosbrugger, Miroslav Stankovič. International Static Analysis Symposium (SAS), 2022.
+* `Solving Invariant Generation for Unsolvable Loops`. <u>Daneshvar Amrollahi</u>, Ezio Bartocci, George Kenison, Laura Kovács, Marcel Moosbrugger, Miroslav Stankovič. International Static Analysis Symposium (SAS), 2022. **Radhia Cousot Best Paper Award**.
 
