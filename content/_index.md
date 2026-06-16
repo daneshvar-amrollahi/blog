@@ -20,6 +20,9 @@ Email: daneshvar [at] cs [dot] stanford [dot] edu
 
 ### News
 
+* [June 2026]: Our paper [`VeriBench: End-to-End Formal Verification Benchmark for AI Coding Agents in Lean 4`](https://cs.stanford.edu/~daneshva/publications/veribench.pdf) got accepted to the [5th Deep Learning for Code Workshop (DL4C)](https://dl4c.github.io/) at ICML 2026.
+* [June 2026]: Our paper [`AI Coding Benchmarks Need Proofs, Not Just Tests`](https://cs.stanford.edu/~daneshva/publications/ai-coding-benchmarks-need-proofs-not-just-tests.pdf) got accepted to the [5th Deep Learning for Code Workshop (DL4C)](https://dl4c.github.io/) at ICML 2026.
+* [June 2026]: Our paper [`Know Your Limits: On the Faithfulness of LLMs as Solvers and Autoformalizers in Legal Reasoning`](https://arxiv.org/pdf/2606.16118v1) got accepted to the [AI4Law Workshop](https://sites.google.com/view/ai4law-icml2026) at ICML 2026.
 * [July 2025]: Our paper `Towards Improved Stability for SMT Solvers via Input Normalization` got accepted to [FMCAD 2025](https://fmcad.org/FMCAD25/). 
 * [June 2025]: Joined the Automated Reasoning Group of [Amazon Web Services (AWS)](https://aws.amazon.com/) in Santa Clara, California as an Applied Science Intern.  
 * [June 2025]: Passed my PhD qualifications exam and earned a Master's degree in Computer Science.

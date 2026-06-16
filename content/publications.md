@@ -4,6 +4,8 @@ title: Publications
 
 See also my [Google Scholar](https://scholar.google.com/citations?hl=en&user=agoJrloAAAAJ) profile.
 
+* `Know Your Limits: On the Faithfulness of LLMs as Solvers and Autoformalizers in Legal Reasoning` [[PDF]](https://arxiv.org/pdf/2606.16118v1). Olivia Peiyu Wang, Sanna Wong-Toropainen, <u>Daneshvar Amrollahi</u>, Ryan Bai, Tashvi Bansal, Arush Garg, Leilani H. Gilpin. Preprint, 2026.
+
 * `AI Coding Benchmarks Need Proofs, Not Just Tests` [[PDF]](https://cs.stanford.edu/~daneshva/publications/ai-coding-benchmarks-need-proofs-not-just-tests.pdf). <u>Daneshvar Amrollahi</u>, Mahyar Karimi, Brando Miranda, Leni Aniva, Chuyue Sun, Clark Barrett, Sanmi Koyejo. Preprint, 2026.
 
 * `Faithful Autoformalization via Roundtrip Verification and Repair` [[PDF]](https://cs.stanford.edu/~daneshva/publications/roundtrip.pdf). <u>Daneshvar Amrollahi</u>, Jerry Lopez, Clark Barrett. Preprint, 2026.
