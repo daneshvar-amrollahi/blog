@@ -15,6 +15,6 @@ Months after his brother's death, he goes to New York to record his last studio 
 
 ## References
 
-[1] We Will Meet Again (1977, earlier version), https://open.spotify.com/track/3UZSpAlc0WZjxkfbUBdUgT?si=43169a3c278d42a6
+[1] https://open.spotify.com/track/3UZSpAlc0WZjxkfbUBdUgT?si=43169a3c278d42a6
 
-[2] We Will Meet Again (last version), https://open.spotify.com/track/188gWOL4IDZ5wu9OjIGl21?si=af9d6724f6514bc6
+[2] https://open.spotify.com/track/188gWOL4IDZ5wu9OjIGl21?si=af9d6724f6514bc6
