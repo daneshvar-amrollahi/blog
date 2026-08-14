@@ -15,6 +15,8 @@ My interests center on combining **automated reasoning** with **large language m
 Previously, I worked on a range of formal methods topics: SMT solvers, theorem provers, loop invariant generation, program synthesis, and verifying software network functions. 
 
 
+Feel free to reach out if you would like to chat or collaborate.
+
 Email: daneshvar [at] cs [dot] stanford [dot] edu
 
 
