@@ -8,7 +8,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?hl=en&user=ago
 
 * `AI Coding Benchmarks Need Proofs, Not Just Tests` [[PDF]](https://cs.stanford.edu/~daneshva/publications/ai-coding-benchmarks-need-proofs-not-just-tests.pdf). <u>Daneshvar Amrollahi</u>, Mahyar Karimi, Brando Miranda, Leni Aniva, Chuyue Sun, Clark Barrett, Sanmi Koyejo. Preprint, 2026.
 
-* `Faithful Autoformalization via Roundtrip Verification and Repair` [[PDF]](https://cs.stanford.edu/~daneshva/publications/roundtrip.pdf). <u>Daneshvar Amrollahi</u>, Jerry Lopez, Clark Barrett. Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026.
+* `Faithful Autoformalization via Roundtrip Verification and Repair` [[PDF]](https://cs.stanford.edu/~daneshva/publications/roundtrip.pdf). <u>Daneshvar Amrollahi</u>, Jerry Lopez, Clark Barrett. Findings of the Association for Computational Linguistics: EMNLP 2026.
 
 * `VeriBench: End-to-End Formal Verification Benchmark for AI Coding Agents in Lean 4` [[PDF]](https://cs.stanford.edu/~daneshva/publications/veribench.pdf). Brando Miranda, Srivatsava Daruru, Ethan S. Hersch, Zhanke Zhou, Allen Nie, <u>Daneshvar Amrollahi</u>, Leni Aniva, Iddah Mlauzi, Kirill Acharya, Elyas Obbad, Dilara Soylu, Weston Kirk, Zixiao Jolene Wang, Kai Fronsdal, Ying Li, Donald Poindexter Jr., Rakshit Kaushik, Shurui Liu, Yegor Denisov-Blanch, Steven Dillmann, Simon Obstbaum, Santiago Cuellar, John Sarracino, Rylan Schaeffer, Mo Tiwari, Donghyun Lee, Bo Han, Sanmi Koyejo. Preprint, 2026.
 

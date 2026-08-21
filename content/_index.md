@@ -24,7 +24,7 @@ Email: daneshvar [at] cs [dot] stanford [dot] edu
 
 ### News
 
-* [08.2026]: *Faithful Autoformalization via Roundtrip Verification and Repair* accepted at Findings of [EMNLP 2026](https://2026.emnlp.org/).
+* [08.2026]: *Faithful Autoformalization via Roundtrip Verification and Repair* accepted at [Findings of ACL: EMNLP 2026](https://2026.emnlp.org/).
 * [06.2026]: Joining [Uber Technologies, Inc.](https://www.uber.com/) as a PhD Software Engineer Intern in Seattle, Washington.
 * [06.2026]: *AI Coding Benchmarks Need Proofs, Not Just Tests* accepted at [DL4C](https://dl4c.github.io/) and [AI for Math](https://ai4math2026.github.io/), ICML 2026.
 * [06.2026]: *Faithful Autoformalization via Roundtrip Verification and Repair* accepted at [AI for Math](https://ai4math2026.github.io/), ICML 2026.
