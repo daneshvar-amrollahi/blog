@@ -10,12 +10,10 @@ title: Home
 
 I am a 3<sup>rd</sup>-year Computer Science PhD student at Stanford University, advised by Clark Barrett. 
 
-My interests center on combining **automated reasoning** with **large language models (LLMs)**. More specifically, I work on the faithfulness of LLMs in **autoformalization** (translating natural language into machine-checkable formal statements). 
+My interests center on combining **automated reasoning** with **large language models (LLMs)**. More specifically, I work on **autoformalization**, the use of LLMs to translate natural language into machine-checkable formal statements. 
 
-Previously, I worked on a range of formal methods topics: SMT solvers, theorem provers, loop invariant generation, program synthesis, and verifying software network functions. 
+Previously, I worked on a range of formal methods topics: SMT solvers, theorem provers, loop invariants, program synthesis, and verifying software network functions. 
 
-
-**I am looking for Summer 2027 internships!**
 
 Feel free to reach out if you would like to chat or collaborate.
 
