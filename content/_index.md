@@ -19,15 +19,16 @@ Feel free to reach out if you would like to chat or collaborate.
 
 Email: daneshvar [at] cs [dot] stanford [dot] edu
 
+**I am looking for Summer 2027 internships!**
 
 ### News
 
 * [08.2026]: *Faithful Autoformalization via Roundtrip Verification and Repair* accepted at [Findings of ACL: EMNLP 2026](https://2026.emnlp.org/).
 * [06.2026]: Joining [Uber Technologies, Inc.](https://www.uber.com/) as a PhD Software Engineer Intern in Seattle, Washington.
-* [06.2026]: *AI Coding Benchmarks Need Proofs, Not Just Tests* accepted at [DL4C](https://dl4c.github.io/) and [AI for Math](https://ai4math2026.github.io/), ICML 2026.
-* [06.2026]: *Faithful Autoformalization via Roundtrip Verification and Repair* accepted at [AI for Math](https://ai4math2026.github.io/), ICML 2026.
-* [06.2026]: *VeriBench: End-to-End Formal Verification Benchmark for AI Coding Agents in Lean 4* accepted at [DL4C](https://dl4c.github.io/) and [AI for Math](https://ai4math2026.github.io/), ICML 2026.
-* [06.2026]: *Know Your Limits: On the Faithfulness and Failure Modes of LLM Autoformalization* accepted at [AI for Math](https://ai4math2026.github.io/) and [AI4Law](https://sites.google.com/view/ai4law-icml2026), ICML 2026.
+* [06.2026]: *AI Coding Benchmarks Need Proofs, Not Just Tests* accepted at [DL4C](https://dl4c.github.io/) and [AI4Math](https://ai4math2026.github.io/), ICML 2026.
+* [06.2026]: *Faithful Autoformalization via Roundtrip Verification and Repair* accepted at [AI4Math](https://ai4math2026.github.io/), ICML 2026.
+* [06.2026]: *VeriBench: End-to-End Formal Verification Benchmark for AI Coding Agents in Lean 4* accepted at [DL4C](https://dl4c.github.io/) and [AI4Math](https://ai4math2026.github.io/), ICML 2026.
+* [06.2026]: *Know Your Limits: On the Faithfulness and Failure Modes of LLM Autoformalization* accepted at [AI4Math](https://ai4math2026.github.io/) and [AI4Law](https://sites.google.com/view/ai4law-icml2026), ICML 2026.
 * [07.2025]: *Towards SMT Solver Stability via Input Normalization* accepted at [FMCAD 2025](https://fmcad.org/FMCAD25/).
 * [06.2025]: Joined the Automated Reasoning Group at [Amazon Web Services (AWS)](https://aws.amazon.com/) in Santa Clara, California as an Applied Science Intern.
 * [06.2025]: Passed my PhD qualifying exam and earned a Master's in Computer Science.
