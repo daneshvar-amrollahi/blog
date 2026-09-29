@@ -23,6 +23,7 @@ Email: daneshvar [at] cs [dot] stanford [dot] edu
 
 ### News
 
+* [09.2026]: I am TAing for [CS 157: Introduction to Logic](http://intrologic.stanford.edu/stanford/index.php) in Autumn 2026. 
 * [08.2026]: *Faithful Autoformalization via Roundtrip Verification and Repair* accepted at [Findings of ACL: EMNLP 2026](https://2026.emnlp.org/).
 * [06.2026]: Joining [Uber Technologies, Inc.](https://www.uber.com/) as a PhD Software Engineer Intern in Seattle, Washington.
 * [06.2026]: *AI Coding Benchmarks Need Proofs, Not Just Tests* accepted at [DL4C](https://dl4c.github.io/) and [AI4Math](https://ai4math2026.github.io/), ICML 2026.
