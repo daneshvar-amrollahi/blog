@@ -12,7 +12,7 @@ I am a 3<sup>rd</sup>-year Computer Science PhD student at Stanford University, 
 
 My interests center on combining **automated reasoning** with **large language models (LLMs)**. More specifically, I work on **autoformalization**, the use of LLMs to translate natural language into machine-checkable formal statements. 
 
-Previously, I worked on a range of formal methods topics: SMT solvers, theorem provers, loop invariants, program synthesis, and verifying software network functions. 
+Previously, I worked on a range of formal methods topics: SMT solving, theorem proving, symbolic computation, static analysis, symbolic execution, loop invariant generation, and program synthesis.
 
 
 Feel free to reach out if you would like to chat or collaborate.
@@ -23,7 +23,7 @@ Email: daneshvar [at] cs [dot] stanford [dot] edu
 
 ### News
 
-* [09.2026]: I am a course assistant for [CS 157: Introduction to Logic](http://intrologic.stanford.edu/stanford/index.php) in Autumn 2026. 
+* [09.2026]: I am a course assistant for [CS157: Introduction to Logic](http://intrologic.stanford.edu/stanford/index.php) in Fall 2026. 
 * [08.2026]: *Faithful Autoformalization via Roundtrip Verification and Repair* accepted at [Findings of ACL: EMNLP 2026](https://2026.emnlp.org/).
 * [06.2026]: Joining [Uber Technologies, Inc.](https://www.uber.com/) as a PhD Software Engineer Intern in Seattle, Washington.
 * [06.2026]: *AI Coding Benchmarks Need Proofs, Not Just Tests* accepted at [DL4C](https://dl4c.github.io/) and [AI4Math](https://ai4math2026.github.io/), ICML 2026.
