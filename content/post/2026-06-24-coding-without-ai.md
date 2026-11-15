@@ -4,8 +4,8 @@ date: '2026-06-24'
 categories:
   - Thoughts
 tags:
-    - Philosophy
-    - AI
+  - AI
+  - Programming
 ---
 
 I can already picture it. People throwing parties where they sit together, pick a small project, and build it without AI. When they get stuck, they ask each other or dig through Stack Overflow. Just like the old days.

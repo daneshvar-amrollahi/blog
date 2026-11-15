@@ -4,7 +4,8 @@ date: '2026-07-05'
 categories:
   - Thoughts
 tags:
-    - Music
+  - Music
+  - Jazz
 ---
 
 When I find something that I like on my own that is not liked by many other people, it becomes very special to me. One of those things is the song We Will Meet Again by Bill Evans. This song is so unpopular that you barely find any covers of it on YouTube, while Evans has so many other songs that are more known and I guess popular.

@@ -2,9 +2,10 @@
 title: First Post
 date: '2023-11-04'
 categories:
-  - Example
+  - Meta
 tags:
-  - Markdown
+  - Hugo
+  - LaTeX
 ---
 
 I am in love with this new extremely minimal theme designed by [Yihui](https://github.com/yihui/hugo-xmin). It also supports LaTeX math expressions. Here is the induction axiom for structural induction on type `$\tau$`, that I just copied from our current draft on Overleaf:

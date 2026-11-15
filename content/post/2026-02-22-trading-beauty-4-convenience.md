@@ -4,7 +4,10 @@ date: '2026-02-22'
 categories:
   - Thoughts
 tags:
-    - Philosophy
+  - Philosophy
+  - Design
+  - Music
+  - Photography
 ---
 
 

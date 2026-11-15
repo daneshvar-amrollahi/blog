@@ -2,12 +2,11 @@
 title: Starting Below Zero
 date: '2026-05-28'
 categories:
-    - Personal
+  - Personal
 tags:
-    - Iran
-    - Immigration
-    - International Students
-    - USCIS
+  - Iran
+  - Immigration
+  - International Students
 ---
 
 In two days this past January, my government murdered forty thousand of its own people.
