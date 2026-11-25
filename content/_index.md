@@ -10,7 +10,7 @@ title: Home
 
 I am a 3<sup>rd</sup>-year Computer Science PhD student at Stanford University, advised by Clark Barrett. 
 
-My interests center on combining **automated reasoning** with **large language models (LLMs)**. More specifically, I have been working on **faithfulness** in **autoformalization**, the use of LLMs to translate natural language into machine-checkable formal statements (e.g., first-order logic or Lean), and making sure they are faithful to the original natural language statement. 
+My interests center on combining **large language models (LLMs)** with **formal verification**. More specifically, I have been working on **faithfulness** in **autoformalization**: using LLMs to translate natural language into machine-checkable formal statements (e.g., first-order logic or Lean), and making sure those statements are faithful to the original.
 
 Previously, I worked on a range of formal methods topics: SMT solving, theorem proving, symbolic computation, static analysis, symbolic execution, loop invariant generation, and program synthesis.
 
@@ -28,7 +28,6 @@ Email: daneshvar [at] cs [dot] stanford [dot] edu
 * [06.2026]: Joining [Uber Technologies, Inc.](https://www.uber.com/) as a PhD Software Engineer Intern in Seattle, Washington.
 * [06.2026]: *AI Coding Benchmarks Need Proofs, Not Just Tests* accepted at [DL4C](https://dl4c.github.io/) and [AI4Math](https://ai4math2026.github.io/), ICML 2026.
 * [06.2026]: *Faithful Autoformalization via Roundtrip Verification and Repair* accepted at [AI4Math](https://ai4math2026.github.io/), ICML 2026.
-* [06.2026]: *VeriBench: End-to-End Formal Verification Benchmark for AI Coding Agents in Lean 4* accepted at [DL4C](https://dl4c.github.io/) and [AI4Math](https://ai4math2026.github.io/), ICML 2026.
 * [06.2026]: *Know Your Limits: On the Faithfulness and Failure Modes of LLM Autoformalization* accepted at [AI4Math](https://ai4math2026.github.io/) and [AI4Law](https://sites.google.com/view/ai4law-icml2026), ICML 2026.
 * [07.2025]: *Towards SMT Solver Stability via Input Normalization* accepted at [FMCAD 2025](https://fmcad.org/FMCAD25/).
 * [06.2025]: Joined the Automated Reasoning Group at [Amazon Web Services (AWS)](https://aws.amazon.com/) in Santa Clara, California as an Applied Science Intern.
